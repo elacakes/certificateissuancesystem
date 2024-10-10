@@ -1,2 +1,0 @@
-# certificate
- Our capstone project!
